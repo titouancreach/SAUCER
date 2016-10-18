@@ -39,7 +39,7 @@ Stage 4 - The bonus
   - Export in multiple format (and format for existing editors).
   - Export sound in multiple format (mp3, midi, wav...).
 
-## Technologie
+## Technologies
 
 Back End
   - NodeJS, ReactServer, Helmet, Express (since we use external API, we only 
