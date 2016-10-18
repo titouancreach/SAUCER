@@ -1,7 +1,7 @@
 # SAUCER - Create it, Share it, Play it !
 
 ## What is it
-SAUCER stands for "__S____A__ucer is the __U__ltimate musi__C__ cr__E__ato__R__"
+SAUCER stands for "**S****A**ucer is the **U**ltimate musi**C** cr**E**ato**R**"
 SAUCER is a tool to create, edit, and share music together.
 
 ## Goal
