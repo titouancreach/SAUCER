@@ -50,6 +50,7 @@ Front End
   - React (fast data changing and fast render).
   - Jest (is using by facebook for unit test).
   - Web font or svg for drawing music notes.
+  - SASS as a CSS preprocessor.
 
 MiddleWare
   - Relay (for retrieve datas from various API in a consistent way)
