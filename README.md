@@ -42,7 +42,7 @@ Stage 4 - The bonus
 ## Technologies
 
 Back End
-  - NodeJS, ReactServer, Helmet, Express (since we use external API, we only 
+  - NodeJS, ReactServer, Express (since we use external API, we only 
   need a simple http server).
 
 Front End
