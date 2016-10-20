@@ -61,8 +61,9 @@ API
 Tools
   - Gitflow for a concistent git workflow
   - Webpack as a project builder.
+  - webpack-web-server for hot module replacement.
   - Babel to transform new javascript into old one.
-  - JSLint to have a consistent code writing.
+  - Elint to have a consistent code writing.
   - JSDoc for the documentation.
 
 ## Reflexion and discussion
